@@ -1,5 +1,5 @@
 # Portfolio-Website
-<h3 align = "center"> is my portfolio website using HTML, CSS, JS &amp; Bootstrap'</h3>
+<h3 align = "center">It is my portfolio website using HTML, CSS, JS &amp; Bootstrap'</h3>
 
 ------------------------------------------
 # Web page Section 1: Header
